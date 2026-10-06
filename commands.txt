@@ -1,0 +1,4 @@
+this is the commands.txt file
+i have pushed the file to github
+1st there was nothing inside the file 
+now i am giving the message to check this in the local reposiory
